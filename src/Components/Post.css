@@ -1,0 +1,25 @@
+.postBlock{
+    width: 80%;
+    height: 90px;
+    border: 1px solid black;
+    margin: 20px auto;
+    margin-bottom: 20px;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: white;
+    border: 1px solid red;
+    border-radius: 2px;
+    color: red;
+    padding: 3px 6px;
+    margin: 5px 10px;
+    text-align: center;
+    font-size: 12px;
+    float: right;
+  }
+
+.content{
+    padding: 3px 5px;
+}
